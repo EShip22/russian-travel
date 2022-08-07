@@ -1,7 +1,0 @@
-.cover__background {
-	
-}
-
-.cover__background:hover {
-	cursor: pointer;
-}
