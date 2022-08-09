@@ -4,14 +4,15 @@
 	margin-bottom: 0;
 	font-size: 24px;
 	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	
 }
-.header__lang-link:nth-child(2) {
-	margin-left: auto;
+.header__lang-link:first-child {
 	margin-right: 18px;
 }
 
 .header__lang-link:hover {
-	text-decoration-line: underline;
 	cursor: pointer;
 	opacity: 0.8;
 }

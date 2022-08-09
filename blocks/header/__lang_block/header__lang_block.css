@@ -1,0 +1,4 @@
+.header__lang_block {
+	display: flex;
+	justify-content: space-between;
+}

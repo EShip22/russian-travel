@@ -21,7 +21,6 @@
 		width: calc(100% - 2*24px);
 		grid-template-columns: repeat(2, 352px);
 		grid-template-rows: repeat(6, 264px);
-		gap: 16px;
 		margin: 88px auto 0;
     }
 }
