@@ -14,5 +14,7 @@
 	.place__paragraph {
 		font-size: 16px;
 		line-height: 26.08px;
+		max-width: calc(100% - 2*16px);
+		margin-left: 16px;
 	}
 }
